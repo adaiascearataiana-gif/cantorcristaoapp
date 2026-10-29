@@ -1,2 +1,2 @@
-# Cantor-crist-o-
+# Cantor Cristao app
 App cantor cristão
